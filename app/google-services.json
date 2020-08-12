@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "884390850297",
+    "firebase_url": "https://mekaniko-f2fe9.firebaseio.com",
+    "project_id": "mekaniko-f2fe9",
+    "storage_bucket": "mekaniko-f2fe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884390850297:android:398866450cc24157",
+        "android_client_info": {
+          "package_name": "com.miggy.mekaniko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884390850297-2p51152u313bp42ii1ibd5l3ulj4l4j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miggy.mekaniko",
+            "certificate_hash": "32e988eb6a0772c6817c030bc70a3eab70450ffc"
+          }
+        },
+        {
+          "client_id": "884390850297-pecl8reme4jjriqf32v5j98dsvkfan73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miggy.mekaniko",
+            "certificate_hash": "96e31370b400820cc98254dc6283bb3f92ee6285"
+          }
+        },
+        {
+          "client_id": "884390850297-0l4ctu92c5t06mfpt7fmkbvgm5efs3hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC7Ts8rC3Wja-8EUrGxp4nJLBMtYGL9wY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884390850297-0l4ctu92c5t06mfpt7fmkbvgm5efs3hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
